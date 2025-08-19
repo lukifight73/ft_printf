@@ -20,7 +20,7 @@ Part of 42 Common Core.
 # Installation and compilation
 1. Clone this repository into your project:
 ```bash
-git clone git@github.com:Philippe89fr/42_printf.git
+git clone git@github.com:lukifight73/ft_printf.git
 ```
 2. Run the following command:
 ```bash
